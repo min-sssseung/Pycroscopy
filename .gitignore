@@ -3,3 +3,10 @@ BGlib/
 pyTEMlib/
 pycroscopy/
 DataGenSTEM/
+*.npy
+*.npz
+*.h5
+*.dm3
+*.pkl
+*.hf5
+*.tar
