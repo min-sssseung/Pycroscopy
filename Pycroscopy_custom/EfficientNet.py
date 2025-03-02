@@ -7,7 +7,6 @@ import numpy as np
 # 기존 모델 : upsampling을 통해 원본 이미지와 동일하게 복원
 # input image size : 256x256 , nb_classes= 3
 # 여기서는 EfficientNet을 Backbone, Upsampling으로 size 복원
-# 그러나 크기는 224x224로 변환후 학습 진행 예정(pretrain된 모델 사용하므로)
 
 from torchvision.models import efficientnet_b0
 

@@ -10,3 +10,9 @@ DataGenSTEM/
 *.pkl
 *.hf5
 *.tar
+*.hdf5
+Pycroscopy_custom/FerroicBlocks
+**/__pycahce__/
+FFTA/
+*.ibw
+FFTA_custom/perovskite
