@@ -16,3 +16,4 @@ Pycroscopy_custom/FerroicBlocks
 FFTA/
 *.ibw
 FFTA_custom/perovskite
+*.pt
